@@ -1,0 +1,22 @@
+{
+  "appointments": [
+    {
+      "id": "demo-appointment-001",
+      "name": "Demo Student",
+      "phone": "(203) 555-0147",
+      "email": "demo@example.com",
+      "service": "1-Hour Driving Lesson",
+      "date": "2026-09-22",
+      "time": "14:00",
+      "status": "booked",
+      "createdAt": "2026-09-18T14:20:00.000Z"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "demo-blocked-001",
+      "date": "2026-09-22",
+      "time": "16:00"
+    }
+  ]
+}
